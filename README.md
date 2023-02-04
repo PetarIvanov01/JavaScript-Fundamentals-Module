@@ -1,3 +1,3 @@
 # JavaScript-Fundamentals 
 
-Hello, here i will upload my tasks from SoftUni Fundamentals Module.✌
+Hello,i already finished all of the tasks in the 'Fundamentals module', but didn't know how to use 'github'. Now i know and will start to upload the folders with every task.✌
