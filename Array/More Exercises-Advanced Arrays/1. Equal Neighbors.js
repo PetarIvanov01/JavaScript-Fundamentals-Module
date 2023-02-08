@@ -1,0 +1,3 @@
+function equalNeighbors (matrix) {
+    
+}
