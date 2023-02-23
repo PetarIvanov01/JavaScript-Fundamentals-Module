@@ -7,13 +7,14 @@ function matchDates(input) {
     let matchedDates = pattern.exec(dates)
 
     while (matchedDates !== null) {
-        let day = matchedDates.groups[`day`]
-        let month = matchedDates.groups[`month`]
-        let year = matchedDates.groups[`year`]
-        
+
+        let day = matchedDates.groups.day
+        let month = matchedDates.groups.month
+        let year = matchedDates.groups.year
 
         console.log(`Day: ${day}, Month: ${month}, Year: ${year}`);
         matchedDates = pattern.exec(dates)
+    
     }
 
 }
